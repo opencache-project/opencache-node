@@ -52,3 +52,16 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# OpenCache Specific
+MANIFEST
+.DS_Store
+redis-py/
+redis/
+prototype/
+dump.rdb
+*tmp*
+*.svn
+media/
+www/
+*.log
+cache/
